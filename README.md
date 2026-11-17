@@ -1,3 +1,5 @@
+> **Status: archived (Nov 2026).** A ready-to-code React starter on Vite. Not maintained; kept for reference.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
